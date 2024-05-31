@@ -10,5 +10,5 @@ Eisen in Form von Stahl und Gusseisen ist augrund seiner Vielseitigkeit einer de
 | E Modul $[N/m^2]$ |  $2.1\cdot 10^{10}$ |
 | Querkontraktion $[-]$ | $0.3$ |
 | Wärmeausdehnungskoeffizient | |
-| Wärmeleitfähigkeit | |
+| Wärmeleitfähigkeit |  |
 | elektrische Leitfähigkeit |  |
