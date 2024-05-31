@@ -14,7 +14,7 @@ makedocs(
         edit_link="main"
     ),
     pages=Any[
-        "Materialbibliothek"=>"iwndex.md",
+        "Materialbibliothek"=>"index.md",
         "Metalle"=>Any[
             "Eisen"=>"metalle/eisen.md"
         ],
