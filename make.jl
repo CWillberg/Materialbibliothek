@@ -18,7 +18,7 @@ makedocs(
         "Metalle"=>Any[
             "Eisen"=>"metalle/eisen.md"
         ],
-        "Kunststoffe"=>Any["Eisen"=>"kunststoffe/PMMA.md"
+        "Kunststoffe"=>Any["PMMA"=>"kunststoffe/PMMA.md"
         ],
         "Naturwerkstoffe"=>Any["Holz"=>"naturwerkstoffe/holz.md"
         ]
