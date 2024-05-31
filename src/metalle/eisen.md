@@ -11,4 +11,4 @@ Eisen in Form von Stahl und Gusseisen ist augrund seiner Vielseitigkeit einer de
 | Querkontraktion $[-]$ | $0.3$ |
 | Wärmeausdehnungskoeffizient | |
 | Wärmeleitfähigkeit | |
-| elektrische Leitfähigkeit | |
+| elektrische Leitfähigkeit |  |
