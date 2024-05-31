@@ -9,3 +9,5 @@ Eisen in Form von Stahl und Gusseisen ist augrund seiner Vielseitigkeit einer de
 | Dichte $[kg/m^3]$ | $7800$ |
 | E Modul $[N/m^2]$ |  $2.1\cdot 10^{10}$ |
 | Querkontraktion $[-]$ | $0.3$ |
+| Wärmeausdehnungskoeffizient | |
+| elektrische Leitfähigkeit | |
