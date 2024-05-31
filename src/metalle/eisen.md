@@ -1,6 +1,6 @@
 # Eisen
 
-Eisen in Form von Stahl und Gusseisen ist augrund seiner Vielseitigkeit einer der verbreitetesten Werkstoffe.
+Eisen in Form von Stahl und Gusseisen ist augrund seiner Vielseitigkeit einer der verbreitetesten und genutzte Werkstoffe.
 
 ![](https://images-of-elements.com/iron.jpg)
 
