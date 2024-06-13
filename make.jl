@@ -16,7 +16,8 @@ makedocs(
     pages=Any[
         "Übersicht"=>"index.md",
         "Metalle"=>Any[
-            "Eisen"=>"metalle/eisen.md"
+            "Eisen" => "metalle/eisen.md"
+            "Mangan" => "metalle/mangan.md"
         ],
         "Kunststoffe"=>Any["PMMA"=>"kunststoffe/PMMA.md"
         ],
