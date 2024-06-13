@@ -1,6 +1,7 @@
 *.html
 *.js
 build/*.*
-build/Figures/*.*
+build/figures/*.*
 build/styles/*.*
 *.css
+build/figures/qr_codes/*.*
