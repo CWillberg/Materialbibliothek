@@ -20,13 +20,13 @@ makedocs(
         "Kunststoffe"=>Any["PMMA"=>"kunststoffe/PMMA.md"
         ],
         "Metalle"=>Any[
+            "Aluminium"=>"metalle/aluminium.md",
+            "Aluminium Bronze"=>"metalle/aluminium_bronze.md",
             "Eisen"=>"metalle/eisen.md",
             "Mangan"=>"metalle/mangan.md",
+            "Paladium"=>"metalle/paladium.md",
             "Stahl"=>"metalle/stahl.md",
-            "Stahl"=>"metalle/aluminium.md",
-            "Stahl"=>"metalle/bronze.md",
-            "Stahl"=>"metalle/wolfram.md",
-            "Stahl"=>"metalle/paladium.md"
+            "Wolfram"=>"metalle/wolfram.md"
         ],
         "Naturwerkstoffe"=>Any["Holz"=>"naturwerkstoffe/holz.md"
         ]
