@@ -15,13 +15,14 @@ makedocs(
     ),
     pages=Any[
         "Übersicht"=>"index.md",
-        "Gläser"=>Any["PMMA"=>"glaeser/obsidian.md"
+        "Gläser"=>Any["Obisdian"=>"glaeser/obsidian.md"
         ],
         "Kunststoffe"=>Any["PMMA"=>"kunststoffe/PMMA.md"
         ],
         "Metalle"=>Any[
             "Aluminium"=>"metalle/aluminium.md",
             "Aluminium Bronze"=>"metalle/aluminium_bronze.md",
+            "Chrom"=>"metalle/chrom.md",
             "Eisen"=>"metalle/eisen.md",
             "Mangan"=>"metalle/mangan.md",
             "Paladium"=>"metalle/paladium.md",
